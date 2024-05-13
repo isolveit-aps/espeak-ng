@@ -15,6 +15,7 @@
 
 .group a
         a        a
+        ag       a
 
 
 .group á
@@ -42,6 +43,7 @@
 
 .group e
         e        E:
+        ei       ai
 
 
 .group é

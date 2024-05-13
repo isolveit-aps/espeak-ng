@@ -64,8 +64,9 @@ endphoneme
 
 phoneme a
   vwl starttype #@ endtype #@
+  ipa æ
   length 130
-  FMT(vowel/a#_2)
+  FMT(vowel/a_4)
 endphoneme
 
 phoneme a:
