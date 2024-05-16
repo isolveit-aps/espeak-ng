@@ -15,7 +15,7 @@
 
 .group a
         a        a
-        ag       a
+        ag       e'a
 
 
 .group á
@@ -38,7 +38,7 @@
 
 
 .group ð
-        ð        v
+        ð        
 
 
 .group e
@@ -60,6 +60,7 @@
         gg       g
      e) g
         g (i     dj
+        g (e     dj
 
 
 .group h
@@ -67,7 +68,8 @@
 
 
 .group i
-        i        I:
+        i        @
+    tr) i        @
 
 
 .group í
@@ -82,10 +84,12 @@
      _) k        k
         k        k
         k (i     tj
+        k (e     tj
      
 
 .group l
         l        l
+        ll       l
         
 
 .group m
@@ -103,7 +107,7 @@
 
 
 .group ó
-        ó        oU:
+        ó        i'ou:
 
 
 .group p
